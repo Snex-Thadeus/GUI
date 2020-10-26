@@ -10,7 +10,7 @@ root.geometry("400x400")
 def something():
     my_label.config(text="This is new text!!", font=("Helvetica", 8))
     root.config(bg="blue")
-    my_button.config(text="You've been configged!", state=DISABLED, pady=30)
+    my_button.config(text="You've been configured!", state=DISABLED, pady=30)
 
 
 
