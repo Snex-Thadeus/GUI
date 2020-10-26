@@ -1,8 +1,8 @@
 from tkinter import *
 
 root = Tk()
-root.title('Codemy.com - Learn To Code!')
-root.iconbitmap('c:/gui/codemy.ico')
+root.title('Snex-Tech Systems!')
+root.iconbitmap('snex.ico')
 root.geometry("400x400")
 
 my_menu = Menu(root)
