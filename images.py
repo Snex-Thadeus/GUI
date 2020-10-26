@@ -5,7 +5,7 @@ root = Tk()
 root.title("Snex-Tech Systems")
 #root.iconbitmap('C:\Users\HOMELUX\PycharmProjects\GUI\codemy.ico')
 
-my_img = ImageTk.PhotoImage(Image.open("me.jpg"))
+my_img = ImageTk.PhotoImage(Image.open("images/me.jpg"))
 my_label = Label(image=my_img)
 my_label.pack()
 
