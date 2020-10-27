@@ -9,7 +9,7 @@ root.geometry("500x400")
 pygame.mixer.init()
 
 def play():
-    pygame.mixer.music.load("audio/Not_Me.mp3")
+    pygame.mixer.music.load("audio/my.mp3")
     pygame.mixer.music.play(loops=0)
 
 def stop():
